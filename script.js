@@ -21,7 +21,7 @@ let previous = document.querySelector('.previous');
 let Allimages = [
     "mat/images/image-product-1-thumbnail.jpg",
     "mat/images/image-product-2-thumbnail.jpg",
-    "mat/images/image-product-2-thumbnail.jpg",
+    "mat/images/image-product-3-thumbnail.jpg",
     "mat/images/image-product-4-thumbnail.jpg"
 ];
 
