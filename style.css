@@ -97,8 +97,13 @@ nav ul{
     list-style: none;
 }
 ul a{
+   
     text-decoration: none;
     color: rgb(160, 151, 151);
+}
+ul a:hover{
+    padding-bottom: 4rem;
+    border-bottom: 3px solid orange;
 }
 
 ul a:hover{
