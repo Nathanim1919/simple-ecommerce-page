@@ -16,6 +16,13 @@ let checkout = document.querySelector('.checkout');
 let scroll = document.querySelector('.scroll');
 let next = document.querySelector('.next');
 let previous = document.querySelector('.previous');
+let menu = document.querySelector('ul');
+let bars = document.querySelector('.bars');
+
+bars.addEventListener('click',()=>{
+    bars.classList.toggle('bar');
+    menu.classList.toggle('display');
+})
 
 
 let Allimages = [
