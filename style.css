@@ -438,6 +438,8 @@ p:first-of-type{
         color: rgb(255, 255, 255);
     }
     ul a:hover{
+        padding-bottom:0;
+        border: none;
         color: white;
     }
     ul li:before{
